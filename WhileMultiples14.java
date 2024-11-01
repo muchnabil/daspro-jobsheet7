@@ -22,7 +22,5 @@ public class WhileMultiples14 {
         avg = sum / counter;
         System.out.println(avg);
     }
-    System.out.println(counter);
-    System.out.println(sum);
     }
 }
